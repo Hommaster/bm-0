@@ -1,0 +1,18 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="coolsite.rafuk.models.Categories.objects" />
+          <option value="coolsite.rafuk.models.Product.objects" />
+          <option value="drfsite.kufar.models.Product.objects" />
+          <option value="config.api.serializers.books" />
+          <option value="judj1.wirt.models.Todo.objects" />
+          <option value="judj1.wirt.models.UserT.objects" />
+          <option value="utu.women.tests.test_model.women" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
